@@ -1,4 +1,4 @@
-# Ex Astris Character Sorter (endfieldsort)
+# Ex Astris Character Sorter (exastrissort)
 An Ex Astris character sorter with more features and filters that based on [execfera's Touhou Project character sorter](https://tohosort.frelia.my/) source code.
 
 Visit [exastris.sorter.my.id](https://exastris.sorter.my.id/)
