@@ -11,6 +11,4 @@ Sebuah penyortir untuk karakter Ex Astris dengan fitur dan filter yang lebih ban
 
 Kunjungi [exastris.sorter.ufal.my.id](https://exastris.sorter.ufal.my.id/)
 
-Versi bahasa Indonesia belum tersedia.
-
 Dukung saya melalui [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) atau [PayPal (Internasional)](https://paypal.me/ufalsalman)
