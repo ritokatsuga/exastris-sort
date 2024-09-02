@@ -39,7 +39,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yan",
-    img: "Yan.png",
+    img: "yan.png",
     opts: {
       place: ['nous'],
       male: true
